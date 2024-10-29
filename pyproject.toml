@@ -6,6 +6,7 @@ authors = ["Juan_Maniglia <90753457+JuanManiglia@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
+scikit-surprise="*"
 python = "^3.11"
 ipykernel = "^6.29.5"
 notebook = "^7.2.2"
