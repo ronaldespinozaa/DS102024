@@ -35,6 +35,14 @@ liac-arff = "^2.5.0"
 openpyxl = "^3.1.5"
 yfinance = "^0.2.50"
 requests = "^2.32.3"
+folium = "^0.19.2"
+geopandas = "^1.0.1"
+branca = "^0.8.0"
+chart-studio = "^1.1.0"
+cufflinks = "^0.17.3"
+stopwords = "^1.0.1"
+nltk = "^3.9.1"
+wordcloud = "^1.9.4"
 
 
 [build-system]
