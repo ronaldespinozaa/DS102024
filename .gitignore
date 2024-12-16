@@ -167,3 +167,5 @@ Prof/
 6-Poo_Proyecto/
 *.DS_Store
 .DS_Store/
+eda_airbnb/input/calendar.csv
+eda_airbnb/input/reviews_details.csv
