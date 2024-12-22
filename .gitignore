@@ -169,3 +169,6 @@ Prof/
 .DS_Store/
 eda_airbnb/input/calendar.csv
 eda_airbnb/input/reviews_details.csv
+0-ComplementaryResourses/eda.py
+weekly.py
+
