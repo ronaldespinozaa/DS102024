@@ -1,6 +1,6 @@
 # 🌟 Análisis Exploratorio de Datos (EDA) en el Dataset de MPG 🚗📊  
 
-![MPG Analysis Banner](https://via.placeholder.com/800x200.png?text=An%C3%A1lisis+Exploratorio+de+Datos+en+MPG)
+![MPG Analysis Banner](https://i.ytimg.com/vi/oRJfXV10vbw/hq720.jpg?sqp=-aymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA9WBQGvngU_D_7t9YpnZGQDgusow))
 
 
 ---
@@ -64,18 +64,18 @@ El **Dataset de MPG** (Millas por Galón) ofrece un conjunto de datos rico para 
 ### 🎨 Distribución de Valores de MPG  
 Este gráfico muestra la distribución de los valores de MPG en todos los vehículos, resaltando diferencias significativas en eficiencia de combustible según los cilindros.  
 
-![Distribución de MPG](../reports/figures/histogram_horsepower.png)
+![Distribución de MPG](reports/figures/histogram_mpg.png)
 
 
 ### 📈 Tendencias del MPG Promedio  
 El análisis de tendencias revela un aumento gradual en la eficiencia del combustible durante los años 80, probablemente impulsado por avances tecnológicos y regulaciones ambientales.  
 
-![Tendencias de MPG]('reports\figures\lineplot_mpg_trend.png')  
+![Tendencias de MPG](reports/figures/lineplot_mpg_trend.png)  
 
 ### 🛠️ Comparaciones entre Peso y MPG  
 Una visualización de dispersión que muestra cómo el peso de los vehículos afecta negativamente su eficiencia en combustible.  
 
-![Peso vs MPG]('reports\figures\scatterplot_weight_mpg.png')  
+![Peso vs MPG](reports/figures/scatterplot_weight_mpg.png)  
 
 ---
 
