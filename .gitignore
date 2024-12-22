@@ -161,7 +161,7 @@ cython_debug/
 
 
 *.mmap
-*.PDF
+
 Prof/
 3-DevelopmentTools/
 6-Poo_Proyecto/
