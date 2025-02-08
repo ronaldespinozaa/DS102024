@@ -34,6 +34,7 @@ surprise = "^0.1"
 liac-arff = "^2.5.0"
 openpyxl = "^3.1.5"
 yfinance = "^0.2.50"
+<<<<<<< HEAD
 requests = "^2.32.3"
 folium = "^0.19.2"
 geopandas = "^1.0.1"
@@ -47,6 +48,11 @@ networkx = "^3.4.2"
 pip = "^24.3.1"
 pyqt5-qt5="*"
 pyqt5="*"
+=======
+orjson = "^3.10.14"
+scikit-optimize = "^0.10.2"
+optuna = "^4.2.0"
+>>>>>>> upstream/main
 
 
 [build-system]
