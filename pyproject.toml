@@ -34,6 +34,8 @@ liac-arff = "^2.5.0"
 openpyxl = "^3.1.5"
 yfinance = "^0.2.50"
 orjson = "^3.10.14"
+scikit-optimize = "^0.10.2"
+optuna = "^4.2.0"
 
 
 [build-system]
