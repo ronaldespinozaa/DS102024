@@ -52,6 +52,11 @@ pyqt5="*"
 orjson = "^3.10.14"
 scikit-optimize = "^0.10.2"
 optuna = "^4.2.0"
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
+skforecast = "^0.14.0"
+shap = "^0.46.0"
 >>>>>>> upstream/main
 
 
