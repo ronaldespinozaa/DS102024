@@ -57,7 +57,7 @@ optuna = "^4.2.0"
 =======
 skforecast = "^0.14.0"
 shap = "^0.46.0"
->>>>>>> upstream/main
+lime = "^0.2.0.1"
 
 
 [build-system]
